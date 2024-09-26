@@ -12,7 +12,7 @@ This project is a simple calculator application built using Java's Abstract Wind
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-calculator.git
+   git clone https://github.com/Dev1903/JAVA-AWT-CALCULATOR.git
    ```
 
 2. Navigate to the project directory:
